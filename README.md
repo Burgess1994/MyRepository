@@ -1,2 +1,3 @@
 # MyRepository
-it is a first repostory for myproject and nothing to descript about it
+坦克大战小游戏
+java游戏
